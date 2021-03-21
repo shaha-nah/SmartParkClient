@@ -7,7 +7,7 @@ This repository contains the code for the IoT System.
 ## Project Info
 This project is divided into four different repositories.
 
-> Mobile application 
+> Mobile application for users
 > 
 > https://github.com/super-hxman/SmartPark
 
@@ -15,11 +15,11 @@ This project is divided into four different repositories.
 > 
 > https://github.com/super-hxman/SmartParkAdmin
 
-> IoT System - Client
+> IoT System - System present in the parking lot
 > 
 > https://github.com/super-hxman/SmartParkClient
 
-> IoT System - Server
+> IoT System - Car detection API
 > 
 > https://github.com/super-hxman/SmartParkServer
 
