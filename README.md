@@ -2,6 +2,25 @@
 
 Smart Park is a system that can be used as a tool to help drivers park their cars with considerably less time and effort.
 
+This repository contains the code for the IoT System.
+
+## Project Info
+This project is divided into three different repositories.
+
+> Mobile application 
+> 
+> https://github.com/super-hxman/SmartPark
+
+> Administrator's Web-based Interface
+> 
+> https://github.com/super-hxman/SmartParkAdmin
+
+> IoT System
+> 
+> https://github.com/super-hxman/SmartParkClient
+
+<br/>
+
 ## Installation
 ### Clone
 > Clone this repo to your local machine using `https://github.com/super-hxman/SmartParkClient.git`
@@ -29,4 +48,5 @@ Smart Park is a system that can be used as a tool to help drivers park their car
 > - monitor the availability of all the parking spots in the lot
 
 <br/>
-<img style="width: 50%" src="https://forthebadge.com/images/badges/contains-17-coffee-cups.svg"/>
+
+[![forthebadge](https://forthebadge.com/images/badges/contains-17-coffee-cups.svg)](https://forthebadge.com)
